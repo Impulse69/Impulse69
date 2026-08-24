@@ -1,0 +1,84 @@
+<svg width="1100" height="330" viewBox="0 0 1100 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Isaac Asamoah — Frontend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07070B"/>
+      <stop offset="0.5" stop-color="#0D0509"/>
+      <stop offset="1" stop-color="#150409"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.68">
+      <stop stop-color="#DC143C" stop-opacity="0.30"/>
+      <stop offset="0.5" stop-color="#7F1D1D" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#07070B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="330" y1="0" x2="770" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDF2F2"/>
+      <stop offset="0.55" stop-color="#FCA5A5"/>
+      <stop offset="1" stop-color="#DC143C"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#DC143C" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#DC143C" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#DC143C" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#DC143C" stroke-opacity="0.055" fill="none"/>
+    </pattern>
+    <filter id="blur8" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+  <style>
+    @keyframes pulse { 0%,100% { opacity:.5 } 50% { opacity:1 } }
+    @keyframes sweep { 0% { transform:translateX(-600px) } 100% { transform:translateX(1700px) } }
+    @keyframes blink { 0%,49% { opacity:1 } 50%,100% { opacity:0 } }
+    @keyframes rise { from { opacity:0; transform:translateY(14px) } to { opacity:1; transform:translateY(0) } }
+    @keyframes drift { 0%,100% { transform:translateY(0) } 50% { transform:translateY(-10px) } }
+    .glow { animation:pulse 5.5s ease-in-out infinite }
+    .beam { animation:sweep 6s cubic-bezier(.6,.05,.3,.95) infinite }
+    .cursor { animation:blink 1.1s step-end infinite }
+    .r1 { animation:rise .9s ease-out both }
+    .r2 { animation:rise .9s .25s ease-out both }
+    .r3 { animation:rise .9s .5s ease-out both }
+    .p1 { animation:drift 7s ease-in-out infinite }
+    .p2 { animation:drift 9s 1s ease-in-out infinite }
+    .p3 { animation:drift 8s 2s ease-in-out infinite }
+    text { font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif }
+    .mono { font-family:'Cascadia Code','Fira Code',Consolas,'Courier New',monospace }
+  </style>
+
+  <rect width="1100" height="330" fill="url(#bg)"/>
+  <rect width="1100" height="330" fill="url(#grid)"/>
+  <rect width="1100" height="330" fill="url(#glow)" class="glow"/>
+
+  <!-- corner brackets -->
+  <path d="M28 70V28H70" stroke="#DC143C" stroke-width="3" stroke-opacity="0.8"/>
+  <path d="M1072 260V302H1030" stroke="#DC143C" stroke-width="3" stroke-opacity="0.8"/>
+  <path d="M1072 70V28H1030" stroke="#DC143C" stroke-width="3" stroke-opacity="0.3"/>
+  <path d="M28 260V302H70" stroke="#DC143C" stroke-width="3" stroke-opacity="0.3"/>
+
+  <!-- floating embers -->
+  <circle class="p1" cx="150" cy="110" r="3" fill="#DC143C" opacity="0.5"/>
+  <circle class="p2" cx="950" cy="220" r="2.5" fill="#F87171" opacity="0.45"/>
+  <circle class="p3" cx="880" cy="90" r="2" fill="#DC143C" opacity="0.6"/>
+  <circle class="p2" cx="220" cy="245" r="2" fill="#F87171" opacity="0.35"/>
+  <circle class="p3" cx="70" cy="180" r="1.5" fill="#DC143C" opacity="0.4"/>
+  <circle class="p1" cx="1030" cy="150" r="1.5" fill="#F87171" opacity="0.4"/>
+
+  <!-- light beam sweeping behind the name -->
+  <g transform="skewX(-18)" opacity="0.5">
+    <rect class="beam" x="0" y="118" width="560" height="72" fill="url(#beam)" filter="url(#blur8)"/>
+  </g>
+
+  <!-- tag -->
+  <text class="mono r1" x="550" y="94" text-anchor="middle" font-size="17" letter-spacing="6" fill="#DC143C">「 ゴースト モード 」</text>
+
+  <!-- name -->
+  <text class="r2" x="550" y="174" text-anchor="middle" font-size="64" font-weight="900" letter-spacing="5" fill="url(#name)">ISAAC ASAMOAH</text>
+  <rect class="r2" x="330" y="194" width="440" height="3" fill="url(#beam)"/>
+
+  <!-- subtitle -->
+  <text class="r3" x="556" y="236" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="12" fill="#9CA3AF">FRONTEND DEVELOPER</text>
+
+  <!-- terminal line -->
+  <text class="mono r3" x="550" y="286" text-anchor="middle" font-size="15" fill="#6B7280">impulse69@ghost:~$ crafting clean web experiences<tspan class="cursor" fill="#DC143C"> ▊</tspan></text>
+</svg>

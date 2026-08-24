@@ -1,0 +1,15 @@
+<svg width="1100" height="26" viewBox="0 0 1100 26" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#DC143C" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#DC143C"/>
+      <stop offset="1" stop-color="#DC143C" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes breathe { 0%,100% { opacity:.4 } 50% { opacity:1 } }
+    .b { animation:breathe 4s ease-in-out infinite }
+  </style>
+  <rect class="b" x="50" y="12" width="1000" height="1.6" fill="url(#line)"/>
+  <path class="b" d="M550 5 557 13 550 21 543 13Z" fill="#0D1117" stroke="#DC143C" stroke-width="1.6"/>
+</svg>

@@ -1,0 +1,30 @@
+# Keeps the "recent moves" section of the README up to date with real
+# GitHub activity. Commits are authored by the github-actions bot, so they
+# refresh the profile without counting as personal contributions.
+# Scheduled workflows only run from the default branch, so this activates
+# once merged into `main`.
+name: Refresh recent activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update activity section
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898270+github-actions[bot]@users.noreply.github.com
+          COMMIT_MSG: "chore: refresh recent activity"
+          MAX_LINES: 6

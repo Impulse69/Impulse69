@@ -1,0 +1,36 @@
+# Generates the contribution-graph snake animation and publishes it to the
+# `output` branch, where the README embeds it. Scheduled workflows only run
+# from the default branch, so this activates once merged into `main` —
+# then trigger it once manually from the Actions tab to render the first frame.
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # daily, just after midnight UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Impulse69
+          outputs: |
+            dist/github-snake.svg?color_snake=#DC143C&color_dots=#161B22,#450A0A,#7F1D1D,#B91C1C,#EF4444
+            dist/github-snake-default.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
