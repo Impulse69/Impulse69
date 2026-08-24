@@ -74,6 +74,9 @@ const isaac = {
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,nginx&theme=dark&perline=5" alt="Node.js, Express, FastAPI, Laravel, Nginx" />
 <br />
+<img src="https://img.shields.io/badge/Filament-0D1117?style=flat-square&logo=laravel&logoColor=DC143C" alt="Filament" />
+<img src="https://img.shields.io/badge/Livewire-0D1117?style=flat-square&logo=livewire&logoColor=DC143C" alt="Livewire" />
+<img src="https://img.shields.io/badge/Blade-0D1117?style=flat-square&logo=laravel&logoColor=DC143C" alt="Blade" />
 <img src="https://img.shields.io/badge/Apache-0D1117?style=flat-square&logo=apache&logoColor=DC143C" alt="Apache" />
 <img src="https://img.shields.io/badge/Socket.io-0D1117?style=flat-square&logo=socketdotio&logoColor=DC143C" alt="Socket.io" />
 <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logoColor=DC143C" alt="REST APIs" />
@@ -121,8 +124,6 @@ const isaac = {
 
 <img src="https://img.shields.io/badge/🤖_AI_%26_AUTOMATION-DC143C?style=for-the-badge&labelColor=0D1117" alt="AI and automation" />
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=2" alt="TensorFlow, PyTorch" />
-<br />
 <img src="https://img.shields.io/badge/Claude_Code-0D1117?style=flat-square&logo=anthropic&logoColor=DC143C" alt="Claude Code" />
 <img src="https://img.shields.io/badge/Retell_AI_Voice_Agents-0D1117?style=flat-square&logoColor=DC143C" alt="Retell AI" />
 <img src="https://img.shields.io/badge/Chatbase-0D1117?style=flat-square&logoColor=DC143C" alt="Chatbase" />
