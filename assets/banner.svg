@@ -70,7 +70,7 @@
   </g>
 
   <!-- tag -->
-  <text class="mono r1" x="550" y="94" text-anchor="middle" font-size="17" letter-spacing="6" fill="#DC143C">「 ゴースト モード 」</text>
+  <text class="mono r1" x="550" y="94" text-anchor="middle" font-size="17" letter-spacing="6" fill="#DC143C">// GHOST MODE //</text>
 
   <!-- name -->
   <text class="r2" x="550" y="174" text-anchor="middle" font-size="64" font-weight="900" letter-spacing="5" fill="url(#name)">ISAAC ASAMOAH</text>

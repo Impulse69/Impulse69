@@ -39,10 +39,29 @@ const isaac = {
 ## 🗡️ // arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,nodejs,electron,sqlite,vite,html,css,git,github&theme=dark&perline=7" alt="TypeScript, JavaScript, Python, Java, React, Next.js, Node.js, Electron, SQLite, Vite, HTML, CSS, Git, GitHub" />
+  <img src="https://img.shields.io/badge/LANGUAGES-DC143C?style=for-the-badge" alt="Languages" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark&perline=4" alt="TypeScript, JavaScript, Python, Java" />
   <br /><br />
-  <img src="https://img.shields.io/badge/ALGO_TRADING-MQL5_%2F_MetaTrader_5-DC143C?style=for-the-badge&labelColor=0D1117" alt="Algo trading: MQL5 / MetaTrader 5" />
-  <img src="https://img.shields.io/badge/MOBILE-Android_(Java)-DC143C?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117" alt="Mobile: Android (Java)" />
+  <img src="https://img.shields.io/badge/FRONTEND-DC143C?style=for-the-badge" alt="Frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css&theme=dark&perline=5" alt="React, Next.js, Vite, HTML, CSS" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/BACKEND_%26_DATA-DC143C?style=for-the-badge" alt="Backend and data" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,py,sqlite&theme=dark&perline=3" alt="Node.js, Python, SQLite" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/DESKTOP_%26_MOBILE-DC143C?style=for-the-badge" alt="Desktop and mobile" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=electron,androidstudio&theme=dark&perline=2" alt="Electron, Android Studio" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/ALGO_TRADING-DC143C?style=for-the-badge" alt="Algo trading" />
+  <br />
+  <img src="https://img.shields.io/badge/MQL5_%C2%B7_MetaTrader_5_%C2%B7_Python-0D1117?style=for-the-badge" alt="MQL5, MetaTrader 5, Python" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/TOOLS-DC143C?style=for-the-badge" alt="Tools" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pnpm&theme=dark&perline=4" alt="Git, GitHub, VS Code, pnpm" />
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
