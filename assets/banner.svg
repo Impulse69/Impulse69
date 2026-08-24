@@ -1,4 +1,4 @@
-<svg width="1100" height="330" viewBox="0 0 1100 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Isaac Asamoah — Frontend Developer">
+<svg width="1100" height="330" viewBox="0 0 1100 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Isaac Asamoah — builds systems from scratch">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="330" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07070B"/>
@@ -77,8 +77,8 @@
   <rect class="r2" x="330" y="194" width="440" height="3" fill="url(#beam)"/>
 
   <!-- subtitle -->
-  <text class="r3" x="556" y="236" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="12" fill="#9CA3AF">FRONTEND DEVELOPER</text>
+  <text class="r3" x="556" y="236" text-anchor="middle" font-size="19" font-weight="600" letter-spacing="12" fill="#9CA3AF">BUILDS SYSTEMS FROM SCRATCH</text>
 
   <!-- terminal line -->
-  <text class="mono r3" x="550" y="286" text-anchor="middle" font-size="15" fill="#6B7280">impulse69@ghost:~$ crafting clean web experiences<tspan class="cursor" fill="#DC143C"> ▊</tspan></text>
+  <text class="mono r3" x="550" y="286" text-anchor="middle" font-size="15" fill="#6B7280">impulse69@ghost:~$ web · desktop · mobile · algo-trading<tspan class="cursor" fill="#DC143C"> ▊</tspan></text>
 </svg>
