@@ -259,6 +259,18 @@ const isaac = {
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
+## 📰 // daily digest
+
+<!--START_SECTION:digest-->
+<div align="center">
+
+<sub>the first digest lands on the next scheduled run</sub>
+
+</div>
+<!--END_SECTION:digest-->
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 ## 📡 // summon me
 
 <p align="center">

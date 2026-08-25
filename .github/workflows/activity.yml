@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-readme-writes
+  cancel-in-progress: false
+
 jobs:
   activity:
     runs-on: ubuntu-latest

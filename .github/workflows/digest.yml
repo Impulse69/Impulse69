@@ -1,0 +1,56 @@
+# Builds a dated AI/engineering digest each morning, archives it under digests/,
+# and refreshes the panel on the profile README.
+#
+# The commit is authored as Impulse69 so it reflects real generated content in
+# the contribution graph. If the news fetch fails the script writes nothing and
+# the job ends without a commit — quiet days stay quiet rather than producing
+# an empty commit.
+#
+# Optional secret: GEMINI_API_KEY adds a written summary above the headlines.
+# Without it the digest is still produced as a sourced headline roundup.
+name: Daily digest
+
+on:
+  schedule:
+    - cron: "40 5 * * *" # 05:40 UTC — off the hour, which GitHub delays most
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-writes
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build digest and refresh README panel
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/digest.py
+
+      - name: Commit archive
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git config user.name "Impulse69"
+          git config user.email "83522875+Impulse69@users.noreply.github.com"
+          git add digests README.md
+          git commit -m "digest: $(date -u +%Y-%m-%d)"
+          # The activity workflow writes to this README too — rebase before push
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            echo "push attempt $i failed, retrying"
+            sleep 5
+          done
+          exit 1
