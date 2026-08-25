@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Impulse69&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Impulse69&label=PROFILE%20VIEWS&color=DC143C&style=for-the-badge&abbreviated=true" alt="Profile views" />
   <a href="https://github.com/Impulse69?tab=followers"><img src="https://img.shields.io/github/followers/Impulse69?style=for-the-badge&logo=github&color=DC143C&labelColor=0D1117" alt="Followers" /></a>
   <img src="https://img.shields.io/badge/SYSTEMS-FROM_SCRATCH-DC143C?style=for-the-badge&labelColor=0D1117" alt="Systems from scratch" />
 </p>
