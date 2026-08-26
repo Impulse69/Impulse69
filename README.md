@@ -264,12 +264,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--08--25-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-08-25" />
-<img src="https://img.shields.io/badge/archived_days-1-0D1117?style=for-the-badge&labelColor=0D1117" alt="1 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--08--26-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-08-26" />
+<img src="https://img.shields.io/badge/archived_days-2-0D1117?style=for-the-badge&labelColor=0D1117" alt="2 archived days" />
 
-**WVU AI research could transform how scientists monitor ecosystems - EurekAlert!**
+**How Georgia Is Leading the Way in Technology, From AI to Fintech - Atlanta Magazine**
 
-<sub><a href="digests/2026-08-25.md">read today's digest</a> · <a href="digests/">browse the archive</a> · rebuilt every morning by GitHub Actions</sub>
+<sub><a href="digests/2026-08-26.md">read today's digest</a> · <a href="digests/">browse the archive</a> · rebuilt every morning by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
