@@ -264,12 +264,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--03-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-03" />
-<img src="https://img.shields.io/badge/archived_days-10-0D1117?style=for-the-badge&labelColor=0D1117" alt="10 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--04-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-04" />
+<img src="https://img.shields.io/badge/archived_days-11-0D1117?style=for-the-badge&labelColor=0D1117" alt="11 archived days" />
 
-**Governance by design: Turning AI policy into executable controls - InfoWorld**
+**The turbulent AI era is here. The choices we make now are critical. - Gates Notes**
 
-<sub><a href="digests/2026-09-03.md">read today's digest</a> · <a href="digests/">browse the archive</a> · rebuilt every morning by GitHub Actions</sub>
+<sub><a href="digests/2026-09-04.md">read today's digest</a> · <a href="digests/">browse the archive</a> · rebuilt every morning by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
