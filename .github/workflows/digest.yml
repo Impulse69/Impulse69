@@ -1,4 +1,4 @@
-# Builds a dated AI/engineering digest each morning, archives it under digests/,
+# Builds a dated AI/engineering digest four times daily, archives it under digests/,
 # and refreshes the panel on the profile README.
 #
 # The commit is authored as Impulse69 so it reflects real generated content in
@@ -8,11 +8,11 @@
 #
 # Optional secret: GEMINI_API_KEY adds a written summary above the headlines.
 # Without it the digest is still produced as a sourced headline roundup.
-name: Daily digest
+name: AI digest editions
 
 on:
   schedule:
-    - cron: "40 5 * * *" # 05:40 UTC — off the hour, which GitHub delays most
+    - cron: "40 5,11,17,23 * * *" # UTC/Ghana: morning, midday, evening, late edition
   workflow_dispatch:
 
 permissions:
@@ -25,6 +25,7 @@ concurrency:
 jobs:
   digest:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
 
@@ -46,7 +47,7 @@ jobs:
           git config user.name "Impulse69"
           git config user.email "83522875+Impulse69@users.noreply.github.com"
           git add digests README.md
-          git commit -m "digest: $(date -u +%Y-%m-%d)"
+          git commit -m "digest: new stories $(date -u +%Y-%m-%dT%H:%MZ)"
           # The activity workflow writes to this README too — rebase before push
           for i in 1 2 3; do
             git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
