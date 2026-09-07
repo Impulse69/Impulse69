@@ -17,7 +17,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -66,6 +66,31 @@ def get_headlines():
         if len(out) >= MAX_HEADLINES:
             break
     return out
+
+
+def unseen_headlines(headlines):
+    """Deduplicate against recent archives, including legacy daily editions."""
+    seen_links, seen_titles = set(), set()
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=7)).strftime("%Y-%m-%d")
+    for path in DIGEST_DIR.glob("*.md"):
+        if path.name[:10] < cutoff:
+            continue
+        for line in path.read_text(encoding="utf-8").splitlines():
+            match = re.match(r"^- \[(.*?)\]\((https?://[^\s]+)\)$", line)
+            if match:
+                label, link = match.groups()
+                seen_links.add(link)
+                title = label.split(" — *", 1)[0]
+                seen_titles.add(" ".join(title.casefold().split()))
+    fresh = []
+    for title, source, link in headlines:
+        normalized = " ".join(title.casefold().split())
+        if link in seen_links or normalized in seen_titles:
+            continue
+        fresh.append((title, source, link))
+        seen_links.add(link)
+        seen_titles.add(normalized)
+    return fresh
 
 
 def summarize(headlines):
@@ -134,7 +159,7 @@ def update_readme(day, headlines):
         print("digest markers not found in README", file=sys.stderr)
         return False
 
-    count = len(list(DIGEST_DIR.glob("*.md")))
+    count = len({p.name[:10] for p in DIGEST_DIR.glob("*.md")})
     lead = headlines[0][0] if headlines else ""
     if len(lead) > 110:
         lead = lead[:107].rstrip() + "…"
@@ -150,7 +175,7 @@ def update_readme(day, headlines):
 
 **{safe}**
 
-<sub><a href="digests/{day}.md">read today's digest</a> · <a href="digests/">browse the archive</a> · rebuilt every morning by GitHub Actions</sub>
+<sub><a href="digests/{day}.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 {end}"""
@@ -168,7 +193,12 @@ def main():
         print("no headlines retrieved — skipping today (no commit)")
         return 0
 
-    day = f"{datetime.now(timezone.utc):%Y-%m-%d}"
+    headlines = unseen_headlines(headlines)
+    if not headlines:
+        print("no new stories — skipping (no commit)")
+        return 0
+
+    day = f"{datetime.now(timezone.utc):%Y-%m-%d-%H%M%S}"
     path = write_digest(day, headlines, summarize(headlines))
     update_readme(day, headlines)
     print(f"wrote {path.relative_to(ROOT)} with {len(headlines)} headlines")
