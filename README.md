@@ -188,22 +188,11 @@ const isaac = {
 
 ## 📊 // battle stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Impulse69&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&ring_color=DC143C" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Impulse69&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=C9D1D9" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Impulse69&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&currStreakNum=F0F6FC&sideNums=F0F6FC&sideLabels=8B949E&dates=6B7280&stroke=30363D" alt="Contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Impulse69&bg_color=0D1117&color=8B949E&line=DC143C&point=F0F6FC&area=true&area_color=DC143C&hide_border=true" width="100%" alt="Contribution graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Impulse69&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
-</div>
+<p align="center">
+  <a href="https://github.com/Impulse69?tab=overview">Contribution history</a> ·
+  <a href="https://github.com/Impulse69?tab=repositories">Explore my repositories</a> ·
+  <a href="https://github.com/Impulse69?tab=stars">Projects I follow</a>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -217,26 +206,15 @@ const isaac = {
 
 ## 🏯 // featured builds
 
-<div align="center">
-  <a href="https://github.com/Impulse69/bakery">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Impulse69&repo=bakery&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9" alt="bakery — full-stack POS: Express, Prisma, Socket.io, Electron" />
-  </a>
-  <a href="https://github.com/Impulse69/scoutingreport-africa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Impulse69&repo=scoutingreport-africa&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9" alt="scoutingreport-africa — Supabase full-stack, Remotion, 5-locale i18n" />
-  </a>
-  <a href="https://github.com/Impulse69/ODCM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Impulse69&repo=ODCM&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9" alt="ODCM — Express + PostgreSQL billing and vehicle tracking" />
-  </a>
-  <a href="https://github.com/Impulse69/donkor-rentals">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Impulse69&repo=donkor-rentals&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9" alt="donkor-rentals — Electron desktop rental management" />
-  </a>
-  <a href="https://github.com/Impulse69/Rentflow-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Impulse69&repo=Rentflow-app&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9" alt="Rentflow-app — Python/Flet offline desktop invoicing" />
-  </a>
-  <a href="https://github.com/Impulse69/Portfolio-V3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Impulse69&repo=Portfolio-V3&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9" alt="Portfolio-V3 — Three.js and React Three Fiber portfolio" />
-  </a>
-</div>
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| [**Bakery POS**](https://github.com/Impulse69/bakery) | Full-stack point-of-sale system | Express, Prisma, Socket.io, Electron |
+| [**Scouting Report Africa**](https://github.com/Impulse69/scoutingreport-africa) | Scouting platform with multilingual support | Supabase, Remotion |
+| [**ODCM**](https://github.com/Impulse69/ODCM) | Billing and vehicle tracking | Express, PostgreSQL |
+| [**Donkor Rentals**](https://github.com/Impulse69/donkor-rentals) | Desktop rental management | Electron |
+| [**Rentflow**](https://github.com/Impulse69/Rentflow-app) | Offline desktop invoicing | Python, Flet |
+| [**Portfolio V3**](https://github.com/Impulse69/Portfolio-V3) | Interactive 3D portfolio | Three.js, React Three Fiber |
+
 
 <div align="center">
   <sub>also in private development — <b>skuldrop</b> (multi-tenant delivery SaaS, Expo driver app) · <b>harvestpay</b> (USSD agritech payments) · <b>ijw-school-system</b> (Laravel + Filament) · <b>odms-app</b> (national disaster reporting) · <b>Hotel-gig</b> (Electron + Fastify hotel PMS)</sub>
@@ -269,7 +247,7 @@ const isaac = {
 
 **The turbulent AI era is here. The choices we make now are critical. - Gates Notes**
 
-<sub><a href="digests/2026-09-06.md">read today's digest</a> · <a href="digests/">browse the archive</a> · rebuilt every morning by GitHub Actions</sub>
+<sub><a href="digests/2026-09-06.md">read the latest digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
@@ -281,7 +259,7 @@ const isaac = {
 <p align="center">
   <a href="https://t.me/Ghost_off_Uchiha"><img src="https://img.shields.io/badge/TELEGRAM-Ghost__off__Uchiha-DC143C?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" alt="Telegram" /></a>
   <a href="https://www.instagram.com/junior_ike_/"><img src="https://img.shields.io/badge/INSTAGRAM-junior__ike__-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram" /></a>
-  <a href="https://wa.me/+233245697141"><img src="https://img.shields.io/badge/WHATSAPP-chat-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="WhatsApp" /></a>
+  <a href="https://wa.me/233245697141"><img src="https://img.shields.io/badge/WHATSAPP-chat-DC143C?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" alt="WhatsApp" /></a>
 </p>
 
 <div align="center">
