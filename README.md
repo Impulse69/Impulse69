@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--08--100331-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-08-100331" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--08--151734-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-08-151734" />
 <img src="https://img.shields.io/badge/archived_days-15-0D1117?style=for-the-badge&labelColor=0D1117" alt="15 archived days" />
 
-**Has AGI been achieved? Nvidia, OpenAI claim so - Daily Sabah**
+**UST Acquires Majority Stake In Italdesign From Audi Group To Expand AI-Driven Mobility Capabilities - Pulse…**
 
-<sub><a href="digests/2026-09-08-100331.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-08-151734.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
