@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--09--100434-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-09-100434" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--09--151556-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-09-151556" />
 <img src="https://img.shields.io/badge/archived_days-16-0D1117?style=for-the-badge&labelColor=0D1117" alt="16 archived days" />
 
-**Physics-aware AI could accelerate hydrogen storage materials discovery - EurekAlert!**
+**GlobalData: Apple India hiring points to deeper AI and engineering ambitions - MacTech.com**
 
-<sub><a href="digests/2026-09-09-100434.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-09-151556.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
