@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--08--201255-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-08-201255" />
-<img src="https://img.shields.io/badge/archived_days-15-0D1117?style=for-the-badge&labelColor=0D1117" alt="15 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--09--012931-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-09-012931" />
+<img src="https://img.shields.io/badge/archived_days-16-0D1117?style=for-the-badge&labelColor=0D1117" alt="16 archived days" />
 
-**Apple’s India Hiring Signals Deeper AI and Engineering Ambitions - INDIA New England News**
+**Cognition AI raises $2 billion at $48 billion valuation - Reuters**
 
-<sub><a href="digests/2026-09-08-201255.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-09-012931.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
