@@ -225,12 +225,12 @@ const isaac = {
 ## ⚡ // recent moves
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5.0-beta.8 - Updates install silently (BETA)](https://github.com/Impulse69/donkor-rentals/releases/tag/v1.5.0-beta.8) in [Impulse69/donkor-rentals](https://github.com/Impulse69/donkor-rentals)
-2. 🎉 Merged PR [#28](https://github.com/Impulse69/donkor-rentals/pull/28) in [Impulse69/donkor-rentals](https://github.com/Impulse69/donkor-rentals)
-3. 💪 Opened PR [#28](https://github.com/Impulse69/donkor-rentals/pull/28) in [Impulse69/donkor-rentals](https://github.com/Impulse69/donkor-rentals)
-4. 🚀 Published release [v1.5.0-beta.7 - Opens at 80% zoom (BETA)](https://github.com/Impulse69/donkor-rentals/releases/tag/v1.5.0-beta.7) in [Impulse69/donkor-rentals](https://github.com/Impulse69/donkor-rentals)
-5. 🎉 Merged PR [#27](https://github.com/Impulse69/donkor-rentals/pull/27) in [Impulse69/donkor-rentals](https://github.com/Impulse69/donkor-rentals)
-6. 💪 Opened PR [#27](https://github.com/Impulse69/donkor-rentals/pull/27) in [Impulse69/donkor-rentals](https://github.com/Impulse69/donkor-rentals)
+1. 💪 Opened PR [#8](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/8) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
+2. 🚀 Published release [v1.5.0-beta.8 - Updates install silently (BETA)](https://github.com/Impulse69/donkor-rentals/releases/tag/v1.5.0-beta.8) in [Impulse69/donkor-rentals](https://github.com/Impulse69/donkor-rentals)
+3. 🎉 Merged PR [#28](https://github.com/Impulse69/donkor-rentals/pull/28) in [Impulse69/donkor-rentals](https://github.com/Impulse69/donkor-rentals)
+4. 💪 Opened PR [#28](https://github.com/Impulse69/donkor-rentals/pull/28) in [Impulse69/donkor-rentals](https://github.com/Impulse69/donkor-rentals)
+5. 🚀 Published release [v1.5.0-beta.7 - Opens at 80% zoom (BETA)](https://github.com/Impulse69/donkor-rentals/releases/tag/v1.5.0-beta.7) in [Impulse69/donkor-rentals](https://github.com/Impulse69/donkor-rentals)
+6. 🎉 Merged PR [#27](https://github.com/Impulse69/donkor-rentals/pull/27) in [Impulse69/donkor-rentals](https://github.com/Impulse69/donkor-rentals)
 <!--END_SECTION:activity-->
 
 <sub>⟳ this section refreshes itself automatically via GitHub Actions</sub>
