@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--10--100042-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-10-100042" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--10--150740-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-10-150740" />
 <img src="https://img.shields.io/badge/archived_days-17-0D1117?style=for-the-badge&labelColor=0D1117" alt="17 archived days" />
 
-**13 faculty chosen for NSF CAREER awards - Purdue University**
+**For years, they warned AI could kill all humans. Now people are listening. - washingtonpost.com**
 
-<sub><a href="digests/2026-09-10-100042.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-10-150740.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
