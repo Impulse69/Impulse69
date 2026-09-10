@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--09--195923-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-09-195923" />
-<img src="https://img.shields.io/badge/archived_days-16-0D1117?style=for-the-badge&labelColor=0D1117" alt="16 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--10--012445-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-10-012445" />
+<img src="https://img.shields.io/badge/archived_days-17-0D1117?style=for-the-badge&labelColor=0D1117" alt="17 archived days" />
 
-**PVAMU awarded nearly $10 million to advance artificial intelligence for national defense - Prairie View A&M…**
+**Alfred University team showcases battery artificial intelligence at New York State Fair - Alfred University**
 
-<sub><a href="digests/2026-09-09-195923.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-10-012445.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
