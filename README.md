@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--10--012445-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-10-012445" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--10--100042-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-10-100042" />
 <img src="https://img.shields.io/badge/archived_days-17-0D1117?style=for-the-badge&labelColor=0D1117" alt="17 archived days" />
 
-**Alfred University team showcases battery artificial intelligence at New York State Fair - Alfred University**
+**13 faculty chosen for NSF CAREER awards - Purdue University**
 
-<sub><a href="digests/2026-09-10-012445.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-10-100042.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
