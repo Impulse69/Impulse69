@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--11--012539-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-11-012539" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--11--095901-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-11-095901" />
 <img src="https://img.shields.io/badge/archived_days-18-0D1117?style=for-the-badge&labelColor=0D1117" alt="18 archived days" />
 
-**Great Valley welcomes two new engineering faculty members - The Pennsylvania State University**
+**GPT-6 Astra: The next generation in intelligence for work - OpenAI**
 
-<sub><a href="digests/2026-09-11-012539.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-11-095901.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
