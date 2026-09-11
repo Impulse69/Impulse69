@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--11--151027-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-11-151027" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--11--195950-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-11-195950" />
 <img src="https://img.shields.io/badge/archived_days-18-0D1117?style=for-the-badge&labelColor=0D1117" alt="18 archived days" />
 
-**Brickclay Marks 10 Years of Innovation in Data, AI and Digital Design Services - FinancialContent**
+**From ETAMU to IEEE: Computer Science Alum Builds Career in Cybersecurity - Texas A&M University-Commerce**
 
-<sub><a href="digests/2026-09-11-151027.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-11-195950.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
