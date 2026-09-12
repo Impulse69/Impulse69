@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--12--013003-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-12-013003" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--12--093317-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-12-093317" />
 <img src="https://img.shields.io/badge/archived_days-19-0D1117?style=for-the-badge&labelColor=0D1117" alt="19 archived days" />
 
-**Arm Announces Arm AI Portal to Streamline AI Application Development - SD Times**
+**Itransition joins Databricks partner program to expand data engineering services - Portal ERP**
 
-<sub><a href="digests/2026-09-12-013003.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-12-093317.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
