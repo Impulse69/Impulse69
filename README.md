@@ -225,12 +225,12 @@ const isaac = {
 ## ⚡ // recent moves
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Impulse69/scoutingreport-africa/pull/2) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
-2. 🎉 Merged PR [#1](https://github.com/Impulse69/scoutingreport-africa/pull/1) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
-3. 🎉 Merged PR [#8](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/8) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
-4. 💪 Opened PR [#1](https://github.com/Impulse69/scoutingreport-africa/pull/1) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
-5. 💪 Opened PR [#8](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/8) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
-6. 🚀 Published release [v1.5.0-beta.8 - Updates install silently (BETA)](https://github.com/Impulse69/donkor-rentals/releases/tag/v1.5.0-beta.8) in [Impulse69/donkor-rentals](https://github.com/Impulse69/donkor-rentals)
+1. 💪 Opened PR [#3](https://github.com/Impulse69/scoutingreport-africa/pull/3) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
+2. 💪 Opened PR [#2](https://github.com/Impulse69/scoutingreport-africa/pull/2) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
+3. 🎉 Merged PR [#1](https://github.com/Impulse69/scoutingreport-africa/pull/1) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
+4. 🎉 Merged PR [#8](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/8) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
+5. 💪 Opened PR [#1](https://github.com/Impulse69/scoutingreport-africa/pull/1) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
+6. 💪 Opened PR [#8](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/8) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
 <!--END_SECTION:activity-->
 
 <sub>⟳ this section refreshes itself automatically via GitHub Actions</sub>
