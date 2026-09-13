@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--13--012306-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-13-012306" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--13--103515-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-13-103515" />
 <img src="https://img.shields.io/badge/archived_days-20-0D1117?style=for-the-badge&labelColor=0D1117" alt="20 archived days" />
 
-**Anthropic’s CEO Calls for Slowing the ‘Pace’ of AI Development - ColombiaOne.com**
+**From missile defense to artificial intelligence: How Technion is preparing Israel for the future - Ynetnews**
 
-<sub><a href="digests/2026-09-13-012306.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-13-103515.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
