@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--13--150131-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-13-150131" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--13--194318-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-13-194318" />
 <img src="https://img.shields.io/badge/archived_days-20-0D1117?style=for-the-badge&labelColor=0D1117" alt="20 archived days" />
 
-**When Will Artificial Intelligence Make Us Richer? The Productivity Puzzle - www.lvivherald.com**
+**Trump again downplays the need to check AI development, citing competition with China - Los Angeles Times**
 
-<sub><a href="digests/2026-09-13-150131.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-13-194318.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
