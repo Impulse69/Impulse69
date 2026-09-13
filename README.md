@@ -225,12 +225,12 @@ const isaac = {
 ## ⚡ // recent moves
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Impulse69/scoutingreport-africa/pull/3) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
-2. 🎉 Merged PR [#2](https://github.com/Impulse69/scoutingreport-africa/pull/2) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
-3. 💪 Opened PR [#3](https://github.com/Impulse69/scoutingreport-africa/pull/3) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
-4. 💪 Opened PR [#2](https://github.com/Impulse69/scoutingreport-africa/pull/2) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
-5. 🎉 Merged PR [#1](https://github.com/Impulse69/scoutingreport-africa/pull/1) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
-6. 🎉 Merged PR [#8](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/8) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
+1. 🎉 Merged PR [#4](https://github.com/Impulse69/scoutingreport-africa/pull/4) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
+2. 💪 Opened PR [#4](https://github.com/Impulse69/scoutingreport-africa/pull/4) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
+3. 🎉 Merged PR [#3](https://github.com/Impulse69/scoutingreport-africa/pull/3) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
+4. 🎉 Merged PR [#2](https://github.com/Impulse69/scoutingreport-africa/pull/2) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
+5. 💪 Opened PR [#3](https://github.com/Impulse69/scoutingreport-africa/pull/3) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
+6. 💪 Opened PR [#2](https://github.com/Impulse69/scoutingreport-africa/pull/2) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
 <!--END_SECTION:activity-->
 
 <sub>⟳ this section refreshes itself automatically via GitHub Actions</sub>
