@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--12--193707-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-12-193707" />
-<img src="https://img.shields.io/badge/archived_days-19-0D1117?style=for-the-badge&labelColor=0D1117" alt="19 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--13--012306-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-13-012306" />
+<img src="https://img.shields.io/badge/archived_days-20-0D1117?style=for-the-badge&labelColor=0D1117" alt="20 archived days" />
 
-**The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving develop…**
+**Anthropic’s CEO Calls for Slowing the ‘Pace’ of AI Development - ColombiaOne.com**
 
-<sub><a href="digests/2026-09-12-193707.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-13-012306.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
