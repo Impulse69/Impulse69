@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--15--015237-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-15-015237" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--15--102412-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-15-102412" />
 <img src="https://img.shields.io/badge/archived_days-22-0D1117?style=for-the-badge&labelColor=0D1117" alt="22 archived days" />
 
-**Argonne puts artificial intelligence to work on biology’s big challenges - anl.gov**
+**Spokane residents express concerns over artificial intelligence development - khq.com**
 
-<sub><a href="digests/2026-09-15-015237.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-15-102412.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
