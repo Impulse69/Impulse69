@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--16--202402-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-16-202402" />
-<img src="https://img.shields.io/badge/archived_days-23-0D1117?style=for-the-badge&labelColor=0D1117" alt="23 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--17--013949-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-17-013949" />
+<img src="https://img.shields.io/badge/archived_days-24-0D1117?style=for-the-badge&labelColor=0D1117" alt="24 archived days" />
 
-**Q&A: The AI slowdown debate - Virginia Tech News**
+**I was mistaken for an AI software engineer. The salary offers were insane - KRON4**
 
-<sub><a href="digests/2026-09-16-202402.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-17-013949.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
