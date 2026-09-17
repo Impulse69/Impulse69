@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--17--153800-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-17-153800" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--17--203159-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-17-203159" />
 <img src="https://img.shields.io/badge/archived_days-24-0D1117?style=for-the-badge&labelColor=0D1117" alt="24 archived days" />
 
-**Rice to launch Master of Artificial Intelligence program in fall 2027 - Rice University**
+**Undergraduate research set student on path to NVIDIA and Apple - Florida International University**
 
-<sub><a href="digests/2026-09-17-153800.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-17-203159.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
