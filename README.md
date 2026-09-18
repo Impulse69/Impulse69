@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--17--203159-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-17-203159" />
-<img src="https://img.shields.io/badge/archived_days-24-0D1117?style=for-the-badge&labelColor=0D1117" alt="24 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--18--012549-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-18-012549" />
+<img src="https://img.shields.io/badge/archived_days-25-0D1117?style=for-the-badge&labelColor=0D1117" alt="25 archived days" />
 
-**Undergraduate research set student on path to NVIDIA and Apple - Florida International University**
+**Shapiro calls on Trump to regulate artificial intelligence development - 90.5 WESA**
 
-<sub><a href="digests/2026-09-17-203159.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-18-012549.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
