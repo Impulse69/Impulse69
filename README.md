@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--18--150705-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-18-150705" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--18--195534-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-18-195534" />
 <img src="https://img.shields.io/badge/archived_days-25-0D1117?style=for-the-badge&labelColor=0D1117" alt="25 archived days" />
 
-**Enterprise AI desperately needs a lifecycle for context - cio.com**
+**How Agentic AI Streamlines Engineering Workflows and Design Tasks - Design News**
 
-<sub><a href="digests/2026-09-18-150705.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-18-195534.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
