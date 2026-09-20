@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--20--013348-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-20-013348" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--20--100350-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-20-100350" />
 <img src="https://img.shields.io/badge/archived_days-27-0D1117?style=for-the-badge&labelColor=0D1117" alt="27 archived days" />
 
-**Lawsuit says AI giants made illegal agreement to ‘pace’ development - Washington Examiner**
+**Donald Trump establishes 'AI Force' to aid in artificial intelligence development - The Jerusalem Post**
 
-<sub><a href="digests/2026-09-20-013348.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-20-100350.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
