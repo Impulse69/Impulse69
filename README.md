@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--21--171020-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-21-171020" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--21--211313-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-21-211313" />
 <img src="https://img.shields.io/badge/archived_days-28-0D1117?style=for-the-badge&labelColor=0D1117" alt="28 archived days" />
 
-**New learning space opening to deepen understanding, problem-solving and reflection in artificial intelligen…**
+**Q&A with Dr. Krishna Narayanan, Teaching Excellence Award winner - Texas A&M University**
 
-<sub><a href="digests/2026-09-21-171020.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-21-211313.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
