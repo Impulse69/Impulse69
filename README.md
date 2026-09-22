@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--22--014857-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-22-014857" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--22--101659-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-22-101659" />
 <img src="https://img.shields.io/badge/archived_days-29-0D1117?style=for-the-badge&labelColor=0D1117" alt="29 archived days" />
 
-**The turbulent AI era is here. The choices we make now are critical. - Gates Notes**
+**Accenture and Google Cloud Transform Software Development with Volvo Cars - Google Cloud Press Corner**
 
-<sub><a href="digests/2026-09-22-014857.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-22-101659.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
