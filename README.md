@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--23--203943-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-23-203943" />
-<img src="https://img.shields.io/badge/archived_days-30-0D1117?style=for-the-badge&labelColor=0D1117" alt="30 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--24--013733-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-24-013733" />
+<img src="https://img.shields.io/badge/archived_days-31-0D1117?style=for-the-badge&labelColor=0D1117" alt="31 archived days" />
 
-**Dems urge Trump to seek AI deal with China - Politico**
+**Artificial Intelligence Will Not Make Us Extinct - www.lvivherald.com**
 
-<sub><a href="digests/2026-09-23-203943.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-24-013733.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
