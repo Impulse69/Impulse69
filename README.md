@@ -225,12 +225,12 @@ const isaac = {
 ## ⚡ // recent moves
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/10) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
-2. 💪 Opened PR [#10](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/10) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
-3. 🎉 Merged PR [#9](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/9) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
-4. 🎉 Merged PR [#7](https://github.com/Impulse69/scoutingreport-africa/pull/7) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
-5. 💪 Opened PR [#7](https://github.com/Impulse69/scoutingreport-africa/pull/7) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
-6. 💪 Opened PR [#9](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/9) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
+1. 💪 Opened PR [#11](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/11) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
+2. 🎉 Merged PR [#10](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/10) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
+3. 💪 Opened PR [#10](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/10) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
+4. 🎉 Merged PR [#9](https://github.com/Impulse69/Custom-Portfolio-Builder/pull/9) in [Impulse69/Custom-Portfolio-Builder](https://github.com/Impulse69/Custom-Portfolio-Builder)
+5. 🎉 Merged PR [#7](https://github.com/Impulse69/scoutingreport-africa/pull/7) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
+6. 💪 Opened PR [#7](https://github.com/Impulse69/scoutingreport-africa/pull/7) in [Impulse69/scoutingreport-africa](https://github.com/Impulse69/scoutingreport-africa)
 <!--END_SECTION:activity-->
 
 <sub>⟳ this section refreshes itself automatically via GitHub Actions</sub>
