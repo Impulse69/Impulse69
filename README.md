@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--27--104214-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-27-104214" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--27--154655-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-27-154655" />
 <img src="https://img.shields.io/badge/archived_days-34-0D1117?style=for-the-badge&labelColor=0D1117" alt="34 archived days" />
 
-**Hyderabad software engineer says he has been job hunting for 7 months, blames tough market - Moneycontrol.com**
+**As coding boom fades, computer science grads focus on AI skills - Rocky Mount Telegram**
 
-<sub><a href="digests/2026-09-27-104214.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-27-154655.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
