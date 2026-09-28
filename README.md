@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--27--202138-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-27-202138" />
-<img src="https://img.shields.io/badge/archived_days-34-0D1117?style=for-the-badge&labelColor=0D1117" alt="34 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--28--015708-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-28-015708" />
+<img src="https://img.shields.io/badge/archived_days-35-0D1117?style=for-the-badge&labelColor=0D1117" alt="35 archived days" />
 
-**Trump says US won't put brakes on AI following Xi visit, despite calls for international safeguards - KCRA**
+**Westmont Downtown Lecture: “Having Fun with Everyday AI and Robotics: Life Implications” - independent.com**
 
-<sub><a href="digests/2026-09-27-202138.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-28-015708.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
