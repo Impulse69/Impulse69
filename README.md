@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--29--024218-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-29-024218" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--29--113219-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-29-113219" />
 <img src="https://img.shields.io/badge/archived_days-36-0D1117?style=for-the-badge&labelColor=0D1117" alt="36 archived days" />
 
-**A New IEEE STEM Book Series for Tweens from TryEngineering - IEEE Spectrum**
+**AI tool for mapping smallholder crops proves itself in Senegal - EurekAlert! Science News Releases**
 
-<sub><a href="digests/2026-09-29-024218.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-29-113219.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
