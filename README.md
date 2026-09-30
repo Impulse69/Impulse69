@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--30--112000-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-30-112000" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--30--165855-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-30-165855" />
 <img src="https://img.shields.io/badge/archived_days-37-0D1117?style=for-the-badge&labelColor=0D1117" alt="37 archived days" />
 
-**Trump says top tech firms have signed accord to 'self-police' AI development - NPR**
+**MassDevice parent Arrowfly is launching AI for Engineering - MassDevice**
 
-<sub><a href="digests/2026-09-30-112000.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-30-165855.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
