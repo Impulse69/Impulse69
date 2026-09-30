@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--30--165855-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-30-165855" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--30--213133-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-30-213133" />
 <img src="https://img.shields.io/badge/archived_days-37-0D1117?style=for-the-badge&labelColor=0D1117" alt="37 archived days" />
 
-**MassDevice parent Arrowfly is launching AI for Engineering - MassDevice**
+**Boyd and the Machine: Teach Warfighters to Master AI · Proceedings - October 2026 Vol. 152/10/1,484 - U.S.…**
 
-<sub><a href="digests/2026-09-30-165855.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-30-213133.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
