@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--09--29--213119-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-29-213119" />
-<img src="https://img.shields.io/badge/archived_days-36-0D1117?style=for-the-badge&labelColor=0D1117" alt="36 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--09--30--022013-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-09-30-022013" />
+<img src="https://img.shields.io/badge/archived_days-37-0D1117?style=for-the-badge&labelColor=0D1117" alt="37 archived days" />
 
-**Prompt engineering fundamentals for Amazon Quick - Amazon Web Services (AWS)**
+**Fig. 1. AI competency model for aerospace engineering managers. (IMAGE) - EurekAlert! Science News Releases**
 
-<sub><a href="digests/2026-09-29-213119.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-09-30-022013.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
