@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--01--022134-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-01-022134" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--01--114705-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-01-114705" />
 <img src="https://img.shields.io/badge/archived_days-38-0D1117?style=for-the-badge&labelColor=0D1117" alt="38 archived days" />
 
-**Rice engineer brings ‘surgineering’ mindset to future of medicine - EurekAlert! Science News Releases**
+**Gemini 4 Argon: our next era of frontier intelligence - blog.google**
 
-<sub><a href="digests/2026-10-01-022134.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-01-114705.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
