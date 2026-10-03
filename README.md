@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--02--212558-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-02-212558" />
-<img src="https://img.shields.io/badge/archived_days-39-0D1117?style=for-the-badge&labelColor=0D1117" alt="39 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--03--021740-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-03-021740" />
+<img src="https://img.shields.io/badge/archived_days-40-0D1117?style=for-the-badge&labelColor=0D1117" alt="40 archived days" />
 
-**NTU Singapore launches CRIMSON-1 satellite to test next-gen perovskite solar cells and AI computing in spac…**
+**FAU Engineering Welcomes 250 High School Students for Engineer Your Future Day - Florida Atlantic University**
 
-<sub><a href="digests/2026-10-02-212558.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-03-021740.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
