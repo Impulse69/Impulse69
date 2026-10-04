@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--04--155741-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-04-155741" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--04--202255-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-04-202255" />
 <img src="https://img.shields.io/badge/archived_days-41-0D1117?style=for-the-badge&labelColor=0D1117" alt="41 archived days" />
 
-**AI Speakers for Events · #1 Futurist Keynote Scott Steinberg - futuristsspeakers.com**
+**Guest column: A caution about artificial intelligence - Riverhead News Review**
 
-<sub><a href="digests/2026-10-04-155741.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-04-202255.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
