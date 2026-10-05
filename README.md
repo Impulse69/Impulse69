@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--05--022259-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-05-022259" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--05--123444-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-05-123444" />
 <img src="https://img.shields.io/badge/archived_days-42-0D1117?style=for-the-badge&labelColor=0D1117" alt="42 archived days" />
 
-**Trump announces ‘Super Intelligence Force’ for AI oversight - NewsNation**
+**Manufacturing needs AI, data centers and power · PERRY O. HOOPER JR. - Montgomery Advertiser**
 
-<sub><a href="digests/2026-10-05-022259.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-05-123444.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
