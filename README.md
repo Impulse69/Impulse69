@@ -242,12 +242,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--04--202255-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-04-202255" />
-<img src="https://img.shields.io/badge/archived_days-41-0D1117?style=for-the-badge&labelColor=0D1117" alt="41 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--05--022259-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-05-022259" />
+<img src="https://img.shields.io/badge/archived_days-42-0D1117?style=for-the-badge&labelColor=0D1117" alt="42 archived days" />
 
-**Guest column: A caution about artificial intelligence - Riverhead News Review**
+**Trump announces ‘Super Intelligence Force’ for AI oversight - NewsNation**
 
-<sub><a href="digests/2026-10-04-202255.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-05-022259.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
