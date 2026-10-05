@@ -1,3 +1,9 @@
+## Isaac Asamoah — Founder & CEO of IJW Labs
+
+I lead web development and custom business software at [IJW Labs](https://ijwlabs.com/), based in Accra, Ghana and working with businesses worldwide. Learn more about [IJW Labs and its founding team](https://ijwlabs.com/about/) or [my founder profile](https://ijwlabs.com/founders/isaac-asamoah/).
+
+---
+
 <div align="center">
   <img src="assets/banner.svg" width="100%" alt="Isaac Asamoah — builds systems from scratch" />
 </div>
