@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--05--232033-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-05-232033" />
-<img src="https://img.shields.io/badge/archived_days-42-0D1117?style=for-the-badge&labelColor=0D1117" alt="42 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--06--031804-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-06-031804" />
+<img src="https://img.shields.io/badge/archived_days-43-0D1117?style=for-the-badge&labelColor=0D1117" alt="43 archived days" />
 
-**Engineering Concerns About Anthropic’s Invisible Watermark - Design News**
+**AI Meets the Fab: Fraunhofer IAF Brings Intelligent Chip Design and Sovereign III-V Pilot Lines to Stuttgar…**
 
-<sub><a href="digests/2026-10-05-232033.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-06-031804.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
