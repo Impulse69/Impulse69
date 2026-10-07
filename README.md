@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--07--024030-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-07-024030" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--07--115836-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-07-115836" />
 <img src="https://img.shields.io/badge/archived_days-44-0D1117?style=for-the-badge&labelColor=0D1117" alt="44 archived days" />
 
-**Prompt Engineering: How to Design, Test and Optimize Prompts for Production AI - Snowflake**
+**Collaborative research using artificial intelligence to optimize assembly line production - Auburn Universi…**
 
-<sub><a href="digests/2026-10-07-024030.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-07-115836.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
