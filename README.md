@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--08--025244-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-08-025244" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--08--121252-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-08-121252" />
 <img src="https://img.shields.io/badge/archived_days-45-0D1117?style=for-the-badge&labelColor=0D1117" alt="45 archived days" />
 
-**New benchmark exposes AI’s difficulty with reading construction blueprints - Digital Journal**
+**Rice expands AI department with new Master of Artificial Intelligence program - The Rice Thresher**
 
-<sub><a href="digests/2026-10-08-025244.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-08-121252.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
