@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--09--120428-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-09-120428" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--09--215146-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-09-215146" />
 <img src="https://img.shields.io/badge/archived_days-46-0D1117?style=for-the-badge&labelColor=0D1117" alt="46 archived days" />
 
-**AI won’t empty the software factory: Why the new engineers act like foremen - www.cio.com**
+**A new approach to sustainable AI from assistant professor Uğur Teğin: offloading AI’s computational burden…**
 
-<sub><a href="digests/2026-10-09-120428.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-09-215146.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
