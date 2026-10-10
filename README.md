@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--10--112038-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-10-112038" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--10--162155-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-10-162155" />
 <img src="https://img.shields.io/badge/archived_days-47-0D1117?style=for-the-badge&labelColor=0D1117" alt="47 archived days" />
 
-**China Targets AI-Linked Jobs With New Employment Initiative - Bloomberg.com**
+**ISTA Professor Tamás Hausel secures computational support for AI-assisted mathematics research - EurekAlert…**
 
-<sub><a href="digests/2026-10-10-112038.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-10-162155.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
