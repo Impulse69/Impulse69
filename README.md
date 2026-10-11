@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--11--113433-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-11-113433" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--11--164445-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-11-164445" />
 <img src="https://img.shields.io/badge/archived_days-48-0D1117?style=for-the-badge&labelColor=0D1117" alt="48 archived days" />
 
-**Delay the deployment of Artificial Intelligence · Opinion letters - The News-Press**
+**Parkland Mom With No Tech Background Uses AI to Build Gift-Giving App Now Available Worldwide - Parkland Talk**
 
-<sub><a href="digests/2026-10-11-113433.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-11-164445.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
