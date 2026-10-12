@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--11--210312-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-11-210312" />
-<img src="https://img.shields.io/badge/archived_days-48-0D1117?style=for-the-badge&labelColor=0D1117" alt="48 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--12--023747-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-12-023747" />
+<img src="https://img.shields.io/badge/archived_days-49-0D1117?style=for-the-badge&labelColor=0D1117" alt="49 archived days" />
 
-**CU Denver Opens AI Hub To Expand Hands-On Artificial Intelligence Education - Pulse 2.0**
+**Master AI Chip Principles With New IEEE Design Program - IEEE Spectrum**
 
-<sub><a href="digests/2026-10-11-210312.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-12-023747.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
