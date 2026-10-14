@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--13--215642-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-13-215642" />
-<img src="https://img.shields.io/badge/archived_days-50-0D1117?style=for-the-badge&labelColor=0D1117" alt="50 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--14--020759-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-14-020759" />
+<img src="https://img.shields.io/badge/archived_days-51-0D1117?style=for-the-badge&labelColor=0D1117" alt="51 archived days" />
 
-**Accordion Acquires Stride to Expand AI Engineering Capabilities for Private Equity Firms - citybiz**
+**Saudi man arrested for bugging ChatGPT developer offices - TheDesk.net**
 
-<sub><a href="digests/2026-10-13-215642.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-14-020759.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
