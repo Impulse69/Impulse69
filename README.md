@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--15--154253-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-15-154253" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--15--203042-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-15-203042" />
 <img src="https://img.shields.io/badge/archived_days-52-0D1117?style=for-the-badge&labelColor=0D1117" alt="52 archived days" />
 
-**AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off - CNBC**
+**Growth Acceleration Partners Appoints Dwayne Stoltz Vice President of AI - citybiz**
 
-<sub><a href="digests/2026-10-15-154253.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-15-203042.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
