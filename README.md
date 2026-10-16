@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--16--013714-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-16-013714" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--16--100441-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-16-100441" />
 <img src="https://img.shields.io/badge/archived_days-53-0D1117?style=for-the-badge&labelColor=0D1117" alt="53 archived days" />
 
-**USC ECE Faculty Lead Innovation in Engineering Education for the AI Era - USC Viterbi School of Engineering**
+**Trillium Engineering Launches Edge AI Modules for Overland & Maritime Reconnaissance - Unmanned Systems Tec…**
 
-<sub><a href="digests/2026-10-16-013714.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-16-100441.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
