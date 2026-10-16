@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--16--152955-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-16-152955" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--16--200250-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-16-200250" />
 <img src="https://img.shields.io/badge/archived_days-53-0D1117?style=for-the-badge&labelColor=0D1117" alt="53 archived days" />
 
-**U.S. Tech Force Hiring Software Engineers and Shift5 Lands $99M Army Contract - Clearance Jobs**
+**USF Unveils New AI and Cybersecurity College Building - TBBW**
 
-<sub><a href="digests/2026-10-16-152955.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-16-200250.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
