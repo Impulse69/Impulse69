@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--17--013018-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-17-013018" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--17--093814-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-17-093814" />
 <img src="https://img.shields.io/badge/archived_days-54-0D1117?style=for-the-badge&labelColor=0D1117" alt="54 archived days" />
 
-**In Brief: UT-Led Fusion Research Team Wins Google.org AI Award - UT News**
+**NetApp Selects Five Deep-Tech Startups for Its 15th Accelerator Cohort - www.nationpathindia.com**
 
-<sub><a href="digests/2026-10-17-013018.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-17-093814.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
