@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--17--142313-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-17-142313" />
-<img src="https://img.shields.io/badge/archived_days-54-0D1117?style=for-the-badge&labelColor=0D1117" alt="54 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--18--012915-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-18-012915" />
+<img src="https://img.shields.io/badge/archived_days-55-0D1117?style=for-the-badge&labelColor=0D1117" alt="55 archived days" />
 
-**Croatia sets out €932 million plan for artificial intelligence development - Croatia Week**
+**AI Reverse Engineering Shakes Software Industry - 조선일보**
 
-<sub><a href="digests/2026-10-17-142313.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-18-012915.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
