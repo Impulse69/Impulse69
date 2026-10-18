@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--18--095120-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-18-095120" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--18--144631-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-18-144631" />
 <img src="https://img.shields.io/badge/archived_days-55-0D1117?style=for-the-badge&labelColor=0D1117" alt="55 archived days" />
 
-**Delay the deployment of artificial intelligence (Voice of the people) - Lakeland Ledger**
+**The new AI-era job market wants mathematicians, engineers and even philosophers - CTech**
 
-<sub><a href="digests/2026-10-18-095120.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-18-144631.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
