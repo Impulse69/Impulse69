@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--18--193744-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-18-193744" />
-<img src="https://img.shields.io/badge/archived_days-55-0D1117?style=for-the-badge&labelColor=0D1117" alt="55 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--19--013651-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-19-013651" />
+<img src="https://img.shields.io/badge/archived_days-56-0D1117?style=for-the-badge&labelColor=0D1117" alt="56 archived days" />
 
-**AI Reverse Engineering Replicates Software, Sparks Controversy - 조선일보**
+**ETIH Innovation Awards 2027: 26 Categories Open [2026] - https://tech-insider.org/**
 
-<sub><a href="digests/2026-10-18-193744.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-19-013651.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
