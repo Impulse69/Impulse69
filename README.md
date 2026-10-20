@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--20--154903-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-20-154903" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--20--204950-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-20-204950" />
 <img src="https://img.shields.io/badge/archived_days-57-0D1117?style=for-the-badge&labelColor=0D1117" alt="57 archived days" />
 
-**FormativGroup Acquires Saige Consulting To Expand AI And Data Engineering Platform - Pulse 2.0**
+**AI worries weigh on ABB shares despite record orders - KSL News**
 
-<sub><a href="digests/2026-10-20-154903.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-20-204950.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
