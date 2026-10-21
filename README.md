@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--21--103232-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-21-103232" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--21--160456-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-21-160456" />
 <img src="https://img.shields.io/badge/archived_days-58-0D1117?style=for-the-badge&labelColor=0D1117" alt="58 archived days" />
 
-**ZTE and Partners Launch 2026 Engineering Capacity Building Program (Artificial Intelligence) to Foster Glob…**
+**UTC computer science team’s AI research paper accepted to NeurIPS 2026 - University of Tennessee at Chattan…**
 
-<sub><a href="digests/2026-10-21-103232.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-21-160456.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
