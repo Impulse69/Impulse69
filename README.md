@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--20--204950-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-20-204950" />
-<img src="https://img.shields.io/badge/archived_days-57-0D1117?style=for-the-badge&labelColor=0D1117" alt="57 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--21--015823-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-21-015823" />
+<img src="https://img.shields.io/badge/archived_days-58-0D1117?style=for-the-badge&labelColor=0D1117" alt="58 archived days" />
 
-**AI worries weigh on ABB shares despite record orders - KSL News**
+**Florida A&M students join nationwide walkout calling for a pause on artificial intelligence development - W…**
 
-<sub><a href="digests/2026-10-20-204950.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-21-015823.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
