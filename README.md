@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--21--205149-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-21-205149" />
-<img src="https://img.shields.io/badge/archived_days-58-0D1117?style=for-the-badge&labelColor=0D1117" alt="58 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--22--014734-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-22-014734" />
+<img src="https://img.shields.io/badge/archived_days-59-0D1117?style=for-the-badge&labelColor=0D1117" alt="59 archived days" />
 
-**GM aims to develop vehicles in as little as two years with AI, software push - CNBC**
+**AI-Generated Evidence in Drug Discovery: Reliability, Legal Risk & FDA Compliance - Crowell & Moring LLP**
 
-<sub><a href="digests/2026-10-21-205149.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-22-014734.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
