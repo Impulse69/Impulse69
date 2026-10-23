@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--23--015215-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-23-015215" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--23--102816-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-23-102816" />
 <img src="https://img.shields.io/badge/archived_days-60-0D1117?style=for-the-badge&labelColor=0D1117" alt="60 archived days" />
 
-**This design software reimagines everyday objects as self-aware devices - MIT News**
+**Q&A: How AI came to model the “messy” human mind - MIT News**
 
-<sub><a href="digests/2026-10-23-015215.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-23-102816.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
