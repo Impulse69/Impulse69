@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--23--203707-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-23-203707" />
-<img src="https://img.shields.io/badge/archived_days-60-0D1117?style=for-the-badge&labelColor=0D1117" alt="60 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--24--015541-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-24-015541" />
+<img src="https://img.shields.io/badge/archived_days-61-0D1117?style=for-the-badge&labelColor=0D1117" alt="61 archived days" />
 
-**U.S.-Latin America Day of Artificial Intelligence symposium celebrates high school student creativity, inno…**
+**Building a Workforce for the Age of Artificial Intelligence - USBE and Information Technology**
 
-<sub><a href="digests/2026-10-23-203707.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-24-015541.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
