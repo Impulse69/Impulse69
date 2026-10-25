@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--25--013320-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-25-013320" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--25--100545-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-25-100545" />
 <img src="https://img.shields.io/badge/archived_days-62-0D1117?style=for-the-badge&labelColor=0D1117" alt="62 archived days" />
 
-**Calling Students & Recent Graduates: Google Internships 2027 - Explore Opportunities in Software Engineerin…**
+**China’s tech giants are paying 1 million yuan for a new kind of AI engineer - South China Morning Post**
 
-<sub><a href="digests/2026-10-25-013320.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-25-100545.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
