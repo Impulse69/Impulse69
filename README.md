@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--24--194347-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-24-194347" />
-<img src="https://img.shields.io/badge/archived_days-61-0D1117?style=for-the-badge&labelColor=0D1117" alt="61 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--25--013320-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-25-013320" />
+<img src="https://img.shields.io/badge/archived_days-62-0D1117?style=for-the-badge&labelColor=0D1117" alt="62 archived days" />
 
-**10 Best Healthcare AI Development Companies for AI-Powered Solutions - Yonkers Times**
+**Calling Students & Recent Graduates: Google Internships 2027 - Explore Opportunities in Software Engineerin…**
 
-<sub><a href="digests/2026-10-24-194347.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-25-013320.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
