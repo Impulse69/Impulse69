@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--26--173736-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-26-173736" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--26--215043-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-26-215043" />
 <img src="https://img.shields.io/badge/archived_days-63-0D1117?style=for-the-badge&labelColor=0D1117" alt="63 archived days" />
 
-**Your guide to AI degrees and certificates in Utah - Utah Business**
+**Instinctools Places in Top 10 Across Six Categories in Feedbax’s 2026 Rankings - The Des Moines Register**
 
-<sub><a href="digests/2026-10-26-173736.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-26-215043.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
