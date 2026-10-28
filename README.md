@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--27--212741-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-27-212741" />
-<img src="https://img.shields.io/badge/archived_days-64-0D1117?style=for-the-badge&labelColor=0D1117" alt="64 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--28--023314-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-28-023314" />
+<img src="https://img.shields.io/badge/archived_days-65-0D1117?style=for-the-badge&labelColor=0D1117" alt="65 archived days" />
 
-**How Artificial Intelligence is Rewriting the Rules of Mobile Search and Web Architecture - Technology Org**
+**Amazon Tells Engineers Outcomes, Not Tokenmaxxing, Define AI Success - PYMNTS.com**
 
-<sub><a href="digests/2026-10-27-212741.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-28-023314.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
