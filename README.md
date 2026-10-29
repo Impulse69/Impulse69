@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--29--114234-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-29-114234" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--29--215811-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-29-215811" />
 <img src="https://img.shields.io/badge/archived_days-66-0D1117?style=for-the-badge&labelColor=0D1117" alt="66 archived days" />
 
-**Cadence Maestro puts domain-trained AI agents to work for chip design - CIO**
+**RIT alumna develops hands-free tech at Meta - Rochester Institute of Technology**
 
-<sub><a href="digests/2026-10-29-114234.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-29-215811.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
