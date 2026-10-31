@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--30--214053-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-30-214053" />
-<img src="https://img.shields.io/badge/archived_days-67-0D1117?style=for-the-badge&labelColor=0D1117" alt="67 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--10--31--024107-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-31-024107" />
+<img src="https://img.shields.io/badge/archived_days-68-0D1117?style=for-the-badge&labelColor=0D1117" alt="68 archived days" />
 
-**Auburn Engineering artificial intelligence and aquaculture research projects part of $8.1 million statewide…**
+**Super Intelligence - NASA (.gov)**
 
-<sub><a href="digests/2026-10-30-214053.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-10-31-024107.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
