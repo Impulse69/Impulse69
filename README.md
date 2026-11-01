@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--01--115954-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-01-115954" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--01--212154-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-01-212154" />
 <img src="https://img.shields.io/badge/archived_days-69-0D1117?style=for-the-badge&labelColor=0D1117" alt="69 archived days" />
 
-**Business leaders are leaning into AI, but they can’t do it without hiring humans. Where are the profits? -…**
+**FAU receives NSF grant to prepare the future AI and robotics workforce - Refresh Miami**
 
-<sub><a href="digests/2026-11-01-115954.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-01-212154.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
