@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--10--31--203836-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-10-31-203836" />
-<img src="https://img.shields.io/badge/archived_days-68-0D1117?style=for-the-badge&labelColor=0D1117" alt="68 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--01--023121-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-01-023121" />
+<img src="https://img.shields.io/badge/archived_days-69-0D1117?style=for-the-badge&labelColor=0D1117" alt="69 archived days" />
 
-**Best Artificial Intelligence Speakers 2027 · Scott Steinberg - https://www.futuristsspeakers.com/**
+**Robotics and Artificial Intelligence: Aakarshan Cumberland’s Journey - South Florida Caribbean News**
 
-<sub><a href="digests/2026-10-31-203836.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-01-023121.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
