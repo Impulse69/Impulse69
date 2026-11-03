@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--02--134817-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-02-134817" />
-<img src="https://img.shields.io/badge/archived_days-70-0D1117?style=for-the-badge&labelColor=0D1117" alt="70 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--03--000136-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-03-000136" />
+<img src="https://img.shields.io/badge/archived_days-71-0D1117?style=for-the-badge&labelColor=0D1117" alt="71 archived days" />
 
-**The middle layer will make or break enterprise AI agents - CIO**
+**Carnegie Mellon University Names Jason M. Brown Next Director and CEO of the Software Engineering Institute…**
 
-<sub><a href="digests/2026-11-02-134817.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-03-000136.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
