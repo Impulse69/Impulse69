@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--03--222931-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-03-222931" />
-<img src="https://img.shields.io/badge/archived_days-71-0D1117?style=for-the-badge&labelColor=0D1117" alt="71 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--04--031051-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-04-031051" />
+<img src="https://img.shields.io/badge/archived_days-72-0D1117?style=for-the-badge&labelColor=0D1117" alt="72 archived days" />
 
-**Artificial Limitation: The Illusion of Intelligence - HackerNoon**
+**Godfather of DevOps Advises Software Engineers to Brace for Agentic AI Impact - DevOps.com**
 
-<sub><a href="digests/2026-11-03-222931.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-04-031051.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
