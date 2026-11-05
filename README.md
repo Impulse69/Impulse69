@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--05--034137-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-05-034137" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--05--132736-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-05-132736" />
 <img src="https://img.shields.io/badge/archived_days-73-0D1117?style=for-the-badge&labelColor=0D1117" alt="73 archived days" />
 
-**Machine builders need junior engineers who learn with AI - Control Design**
+**AI Code Generation for Security, Quality, and Maintainability · College of Engineering - Boston University**
 
-<sub><a href="digests/2026-11-05-034137.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-05-132736.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
