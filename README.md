@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--07--030934-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-07-030934" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--07--115401-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-07-115401" />
 <img src="https://img.shields.io/badge/archived_days-75-0D1117?style=for-the-badge&labelColor=0D1117" alt="75 archived days" />
 
-**Silesian University of Technology knows how to work with business - Politechnika Śląska**
+**Router-Driven Multi-Agent Artificial Intelligence Automates Geotechnical Foundation Engineering Calculation…**
 
-<sub><a href="digests/2026-11-07-030934.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-07-115401.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
