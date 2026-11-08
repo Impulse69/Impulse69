@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--07--210339-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-07-210339" />
-<img src="https://img.shields.io/badge/archived_days-75-0D1117?style=for-the-badge&labelColor=0D1117" alt="75 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--08--024016-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-08-024016" />
+<img src="https://img.shields.io/badge/archived_days-76-0D1117?style=for-the-badge&labelColor=0D1117" alt="76 archived days" />
 
-**Is Artificial Intelligence already an essential factor in winning the 24 Hours of Le Mans? - 24 Heures du Mans**
+**Powering the Future - USBE and Information Technology**
 
-<sub><a href="digests/2026-11-07-210339.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-08-024016.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
