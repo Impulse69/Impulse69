@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--08--212034-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-08-212034" />
-<img src="https://img.shields.io/badge/archived_days-76-0D1117?style=for-the-badge&labelColor=0D1117" alt="76 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--09--025628-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-09-025628" />
+<img src="https://img.shields.io/badge/archived_days-77-0D1117?style=for-the-badge&labelColor=0D1117" alt="77 archived days" />
 
-**Traversal raises $120 million at $1 billion valuation - The American Bazaar**
+**Mainframes Fail on Context, Not Code - StartupHub.ai**
 
-<sub><a href="digests/2026-11-08-212034.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-09-025628.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
