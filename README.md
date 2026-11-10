@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--10--134358-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-10-134358" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--10--223003-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-10-223003" />
 <img src="https://img.shields.io/badge/archived_days-78-0D1117?style=for-the-badge&labelColor=0D1117" alt="78 archived days" />
 
-**Computer-Aided Design and Artificial Intelligence Reshape Modern Pharmaceutical Discovery and Development -…**
+**AI Makes Reverse Engineering Mainstream Software & Malware Far Easier - Dark Reading**
 
-<sub><a href="digests/2026-11-10-134358.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-10-223003.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
