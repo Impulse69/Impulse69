@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--12--135730-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-12-135730" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--12--225043-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-12-225043" />
 <img src="https://img.shields.io/badge/archived_days-80-0D1117?style=for-the-badge&labelColor=0D1117" alt="80 archived days" />
 
-**Accelerating generative AI delivery with reusable assets - Amazon Web Services (AWS)**
+**From prototype to production: Engineering agents with Agent DLC - Amazon Web Services (AWS)**
 
-<sub><a href="digests/2026-11-12-135730.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-12-225043.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
