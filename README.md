@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--13--033324-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-13-033324" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--13--132342-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-13-132342" />
 <img src="https://img.shields.io/badge/archived_days-81-0D1117?style=for-the-badge&labelColor=0D1117" alt="81 archived days" />
 
-**AI Tools for Engineers: Limitless Labs CAM Agent - Design News**
+**CRHDRI.AI Software and Device Technologies Appoints Anupma Srivastava as Chief Human Resources Officer - ht…**
 
-<sub><a href="digests/2026-11-13-033324.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-13-132342.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
