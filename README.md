@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--14--122812-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-14-122812" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--14--213941-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-14-213941" />
 <img src="https://img.shields.io/badge/archived_days-82-0D1117?style=for-the-badge&labelColor=0D1117" alt="82 archived days" />
 
-**Top 5 Artificial Intelligence and Machine Learning Development Companies (2026) - The Hype Magazine**
+**Innodata vs. Nebius: Which Technology Stock Is a Better Buy for 2027? - The Globe and Mail**
 
-<sub><a href="digests/2026-11-14-122812.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-14-213941.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
