@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--13--224946-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-13-224946" />
-<img src="https://img.shields.io/badge/archived_days-81-0D1117?style=for-the-badge&labelColor=0D1117" alt="81 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--14--033108-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-14-033108" />
+<img src="https://img.shields.io/badge/archived_days-82-0D1117?style=for-the-badge&labelColor=0D1117" alt="82 archived days" />
 
-**Q&A: Leveraging artificial intelligence to propel engineering education - The Pennsylvania State University**
+**Purdue faculty innovates in AI, quantum computing and software security - Purdue Polytechnic**
 
-<sub><a href="digests/2026-11-13-224946.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-14-033108.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
