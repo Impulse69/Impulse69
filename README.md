@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--14--213941-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-14-213941" />
-<img src="https://img.shields.io/badge/archived_days-82-0D1117?style=for-the-badge&labelColor=0D1117" alt="82 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--15--030121-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-15-030121" />
+<img src="https://img.shields.io/badge/archived_days-83-0D1117?style=for-the-badge&labelColor=0D1117" alt="83 archived days" />
 
-**Innodata vs. Nebius: Which Technology Stock Is a Better Buy for 2027? - The Globe and Mail**
+**Explainable Cognitive Swarm Architecture Improves Multi-Agent Software Engineering Benchmark Accuracy - Bio…**
 
-<sub><a href="digests/2026-11-14-213941.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-15-030121.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
