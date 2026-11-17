@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--17--010153-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-17-010153" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--17--145047-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-17-145047" />
 <img src="https://img.shields.io/badge/archived_days-85-0D1117?style=for-the-badge&labelColor=0D1117" alt="85 archived days" />
 
-**Beyond using AI: SDSU launches engineering degrees to prepare next generation of innovators - Pigeon605**
+**The illusion of AI productivity in software development and what to measure instead - CIO**
 
-<sub><a href="digests/2026-11-17-010153.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-17-145047.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
