@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--17--235605-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-17-235605" />
-<img src="https://img.shields.io/badge/archived_days-85-0D1117?style=for-the-badge&labelColor=0D1117" alt="85 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--18--143012-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-18-143012" />
+<img src="https://img.shields.io/badge/archived_days-86-0D1117?style=for-the-badge&labelColor=0D1117" alt="86 archived days" />
 
-**Grata Intelligence Marks 12 Years of AI Innovation, Bringing Enterprise-Grade Technology Within Reach of Gr…**
+**Gartner Reveals Top Software Engineering Trends as AI Transforms the Software Development Lifecycle - ELE T…**
 
-<sub><a href="digests/2026-11-17-235605.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-18-143012.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
