@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--19--042747-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-19-042747" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--19--234617-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-19-234617" />
 <img src="https://img.shields.io/badge/archived_days-87-0D1117?style=for-the-badge&labelColor=0D1117" alt="87 archived days" />
 
-**Insight launches agent store, engineering program to accelerate enterprise AI adoption - Reseller News**
+**In Print: ‘Korean Studies in the Artificial Intelligence Era’ - Purdue University**
 
-<sub><a href="digests/2026-11-19-042747.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-19-234617.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
