@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--19--234617-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-19-234617" />
-<img src="https://img.shields.io/badge/archived_days-87-0D1117?style=for-the-badge&labelColor=0D1117" alt="87 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--20--141903-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-20-141903" />
+<img src="https://img.shields.io/badge/archived_days-88-0D1117?style=for-the-badge&labelColor=0D1117" alt="88 archived days" />
 
-**In Print: ‘Korean Studies in the Artificial Intelligence Era’ - Purdue University**
+**AI is changing software engineering — and some developers miss the struggle - CNBC**
 
-<sub><a href="digests/2026-11-19-234617.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-20-141903.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
