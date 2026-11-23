@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--23--035750-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-23-035750" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--23--162535-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-23-162535" />
 <img src="https://img.shields.io/badge/archived_days-91-0D1117?style=for-the-badge&labelColor=0D1117" alt="91 archived days" />
 
-**Digital Product Development: Speed, Security and UX - Medya Press**
+**Bayesian Networks Offer Dynamic Pre-Regulatory Buffer for Artificial Intelligence Governance - Bioengineer.org**
 
-<sub><a href="digests/2026-11-23-035750.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-23-162535.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
