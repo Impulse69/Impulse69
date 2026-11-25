@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--25--013337-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-25-013337" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--25--155936-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-25-155936" />
 <img src="https://img.shields.io/badge/archived_days-93-0D1117?style=for-the-badge&labelColor=0D1117" alt="93 archived days" />
 
-**Beyond using AI: SDSU launches engineering degrees to prepare next generation of innovators - South Dakota…**
+**Where the software development bottleneck went - InfoWorld**
 
-<sub><a href="digests/2026-11-25-013337.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-25-155936.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
