@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--26--010743-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-26-010743" />
-<img src="https://img.shields.io/badge/archived_days-94-0D1117?style=for-the-badge&labelColor=0D1117" alt="94 archived days" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--27--010742-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-27-010742" />
+<img src="https://img.shields.io/badge/archived_days-95-0D1117?style=for-the-badge&labelColor=0D1117" alt="95 archived days" />
 
-**Rank Orbit Brings Marketing, Software Development and AI Together Under One Unified Business Growth Model -…**
+**Physics-Guided Artificial Intelligence Reconstructs Fluid Flow From Imperfect Imaging Data - Bioengineer.org**
 
-<sub><a href="digests/2026-11-26-010743.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-27-010742.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
