@@ -248,12 +248,12 @@ const isaac = {
 <!--START_SECTION:digest-->
 <div align="center">
 
-<img src="https://img.shields.io/badge/latest_digest-2026--11--28--004001-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-28-004001" />
+<img src="https://img.shields.io/badge/latest_digest-2026--11--28--142835-DC143C?style=for-the-badge&labelColor=0D1117" alt="Latest digest 2026-11-28-142835" />
 <img src="https://img.shields.io/badge/archived_days-96-0D1117?style=for-the-badge&labelColor=0D1117" alt="96 archived days" />
 
-**Structured Prompts Improve Artificial Intelligence Utility Across Integrative Medicine Commentary Finds - B…**
+**Lab data work now needs staff engineers - StartupHub.ai**
 
-<sub><a href="digests/2026-11-28-004001.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
+<sub><a href="digests/2026-11-28-142835.md">read today's digest</a> · <a href="digests/">browse the archive</a> · checked four times daily by GitHub Actions</sub>
 
 </div>
 <!--END_SECTION:digest-->
